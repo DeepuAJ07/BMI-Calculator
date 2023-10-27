@@ -1,0 +1,68 @@
+.Calculate{
+    border: solid 2px grey;
+    width: 220px;
+margin-left: 550px;
+margin-top: 50px;
+    display: flex;
+   justify-content: center;
+   align-items: center;
+   min-height: 150px;
+}
+
+.Calculate form{
+    background-color: white;
+    padding-bottom: 20px;
+  }
+
+  .Calculate input{
+    padding: 10px;
+   margin: 10px;
+}
+
+.Calculate .BMI{
+    display: flex;
+    padding: 5px;
+    margin: 10px;
+    color: #12bdff;
+    background-color: white;
+}
+
+.Calculate .BMI:hover{
+    color: white;
+    background-color: #12bdff;
+}
+
+.userdata button{
+    margin: 1px;
+
+  left:10px;
+  top: 40px;
+  padding: 5px;
+  color: #12bdff;
+  background-color: white;
+
+}
+.userdata button:hover{
+    color: white;
+    background-color: #12bdff;
+}
+
+.data{
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.data td,th{
+    border: 1px solid #12bdff;
+    text-align: center;
+    padding: 8px;
+}
+
+tr:nth-child(even){
+    background-color: #12bdff;
+}
+
+
+

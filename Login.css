@@ -1,0 +1,46 @@
+
+
+.Login form{
+    background-color: white;
+    padding-bottom: 20px;
+  
+  }
+
+
+.Login input{
+    padding: 10px;
+   margin: 10px;
+}
+
+.Login {
+    border: solid 5px grey;
+    width: 220px;
+margin-left: 550px;
+margin-top: 50px;
+    display: flex;
+   justify-content: center;
+   align-items: center;
+   min-height: 250px;
+   width: 200px;
+   background-color: aliceblue;
+}
+
+.Login button{
+    display: flex;
+    padding: 5px;
+    margin: 10px;
+    color: #12bdff;
+    background-color: gray;
+}
+
+.Login a{
+    text-decoration: none;
+    color: #12bdff;
+    padding-bottom: 10px;
+   
+}
+
+.Login button:hover{
+    color: grey;
+    background-color: #12bdff;
+}

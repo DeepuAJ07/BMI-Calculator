@@ -1,0 +1,41 @@
+
+header {
+    background-color: #1b1f24;
+    padding: 20px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  header ul {
+    display: flex;
+  }
+
+  header ul li {
+    list-style: none;
+    margin-right: 25px;
+    font-family: sans-serif;
+  }
+
+  header ul li a {
+    color: white;
+    text-decoration-line: none;
+  }
+
+  header ul li a:hover {
+    color: #12bdff
+  }
+
+  
+header .logo {
+    color: #12bdff;
+  
+    letter-spacing: 2px;
+  }
+
+  
+header .logo:hover{
+    color: white;
+   
+  }

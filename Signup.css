@@ -1,0 +1,36 @@
+.Signup{
+   
+    width: 220px;
+margin-left: 550px;
+margin-top: 50px;
+    display: flex;
+   justify-content: center;
+   align-items: center;
+   min-height: 250px;
+}
+
+.Signup input{
+    padding: 10px;
+   margin: 10px;
+}
+
+
+.Signup form{
+    background-color: white;
+    padding: 20px;
+  }
+
+  .Signup button{
+    display: flex;
+    padding: 5px;
+    margin: 10px;
+    color: #12bdff;
+    background-color: gray;
+}
+
+.Signup a{
+    text-decoration: none;
+    color: #12bdff;
+    padding-bottom: 10px;
+   
+}
